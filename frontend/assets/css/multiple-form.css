@@ -1,0 +1,326 @@
+.formBox {
+    background: #fff none repeat scroll 0 0;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    margin: 70px auto;
+    max-width: 1000px;
+    overflow: hidden;
+    padding: 30px;
+}
+.formHeader {
+    color: rgba(0, 0, 0, 0.54);
+    font-size: 22px;
+    font-weight: 600;
+    margin: -30px -30px 0;
+    padding: 20px;
+}
+.well {
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset;
+    margin-bottom: 20px;
+    min-height: 20px;
+    padding: 19px;
+}
+.terms-text {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #f3fbe8;
+    border-color: #e8e8e8 -moz-use-text-color;
+    border-image: none;
+    border-radius: 0;
+    border-style: solid none;
+    border-width: 1px medium;
+    color: #666;
+    margin: 0 -30px 45px;
+    padding: 15px 30px;
+    text-align: left;
+}
+.form-horizontal h2, .form-horizontal h3 {
+    color: #666;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+    margin: 50px 0 15px;
+}
+.form-horizontal h2 {
+    color: #2c3e50;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 28px;
+    margin: 45px 0 25px;
+    text-transform: uppercase;
+}
+ol.counter {
+    counter-reset: list-order;
+    padding-left: 30px;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 800px;
+}
+.form-horizontal .form-group {
+    margin-bottom: 25px;
+}
+
+textarea, input {
+    text-transform: uppercase;
+}
+.blueBTN {
+    background-color: transparent;
+    background-image: url("../img/add_blue.png");
+    background-position: left 4px center;
+    background-repeat: no-repeat;
+    background-size: 24px auto;
+    border: 1px solid #03a6ff;
+    border-radius: 5px;
+    color: #03a6ff;
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    margin-top: 3px;
+    padding: 7px 30px 6px;
+    text-align: left;
+}
+.blueBTN {
+    background-color: transparent;
+    background-image: url("../img/add_blue.png");
+    background-position: left 4px center;
+    background-repeat: no-repeat;
+    background-size: 24px auto;
+    border: 1px solid #03a6ff;
+    border-radius: 5px;
+    color: #03a6ff;
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    margin-top: 3px;
+    padding: 7px 30px 6px;
+    text-align: left;
+}
+.blueBTN {
+    background-color: transparent;
+    background-image: url("../img/add_blue.png");
+    background-position: left 4px center;
+    background-repeat: no-repeat;
+    background-size: 24px auto;
+    border: 1px solid #03a6ff;
+    border-radius: 5px;
+    color: #03a6ff;
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    margin-left: 15px;
+    margin-top: 3px;
+    padding: 7px 30px 6px;
+    text-align: left;
+}
+.blueBTN {
+    background-color: transparent;
+    background-image: url("../img/add_blue.png");
+    background-position: left 4px center;
+    background-repeat: no-repeat;
+    background-size: 24px auto;
+    border: 1px solid #03a6ff;
+    border-radius: 5px;
+    color: #03a6ff;
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    margin-top: 3px;
+    padding: 7px 30px 6px;
+    text-align: left;
+}
+.btn-flat-success {
+    background-color: #8ec63d;
+    border: medium none;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 19px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    padding: 8px 50px;
+}
+ol.counter > li > ul {
+    counter-reset: list;
+    padding-left: 30px;
+}
+ol.counter > li > ul > li::before {
+    color: #333;
+    content: counter(list, lower-alpha) ". ";
+    counter-increment: list;
+    font-weight: 600;
+    left: -35px;
+    position: absolute;
+    text-align: right;
+    top: 8px;
+    width: 30px;
+}
+
+.form-horizontal .form-group label {
+    color: #fff;
+    font-size: 13px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    text-align: right;
+    background: #000;
+    background-image: -moz-linear-gradient(center top , #585858, #000);
+    background-image: -webkit-linear-gradient(top,#585858,#000);
+    padding: 11px !important;
+    border-radius: 4px;
+    height: 34px
+}
+ol.counter > li .control-label {
+    padding-top: 3px !important;
+}
+ol.counter > li > ul .control-label {
+    padding-top: 6px !important;
+}
+#content ol.counter > li .control-label {
+    padding-top: 3px;
+}
+.form-horizontal .form-control {
+    border: 1px solid #b3b3b3;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px rgba(68, 68, 68, 0.15);
+    color: #666;
+    display: block;
+    float: right;
+    /*height: 38px;*/
+    max-width: 480px;
+    width: 100%;
+}
+ol.counter > li > ul > li {
+    list-style: outside none none;
+    position: relative;
+}
+/*multiple-setp-css*/
+
+
+
+/*#msform {
+width: 400px;
+margin: 50px auto;
+text-align: center;
+position: relative;
+}*/
+/*#msform fieldset {
+background: white;
+border: 0 none;
+border-radius: 3px;
+box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+padding: 20px 30px;
+box-sizing: border-box;
+width: 80%;
+margin: 0 10%;*/
+/*stacking fieldsets above each other*/
+/*position: absolute;
+}*/
+/*Hide all except first fieldset*/
+#msform fieldset:not(:first-of-type) {
+display: none;
+}
+/*inputs*/
+/*#msform input, #msform textarea {
+padding: 15px;
+border: 1px solid #ccc;
+border-radius: 3px;
+margin-bottom: 10px;
+width: 100%;
+box-sizing: border-box;
+font-family: montserrat;
+color: #2C3E50;
+font-size: 13px;
+}*/
+/*buttons*/
+#msform .action-button {
+width: 100px;
+background: #27AE60;
+font-weight: bold;
+color: white;
+border: 0 none;
+border-radius: 1px;
+cursor: pointer;
+padding: 10px 5px;
+margin: 10px 5px;
+float: right;
+}
+#msform .action-button:hover, #msform .action-button:focus {
+box-shadow: 0 0 0 2px white, 0 0 0 3px #27AE60;
+}
+/*headings*/
+.fs-title {
+font-size: 15px;
+text-transform: uppercase;
+color: #2C3E50;
+margin-bottom: 10px;
+}
+.fs-subtitle {
+font-weight: normal;
+font-size: 13px;
+color: #666;
+margin-bottom: 20px;
+}
+/*progressbar*/
+#progressbar {
+margin-bottom: 30px;
+overflow: hidden;
+/*CSS counters to number the steps*/
+counter-reset: step;
+}
+#progressbar li {
+list-style-type: none;
+color: #666;
+text-transform: uppercase;
+font-size: 12px;
+width: 25%;
+float: left;
+position: relative;
+text-align: center;
+}
+#progressbar li:before {
+content: counter(step);
+counter-increment: step;
+width: 20px;
+line-height: 20px;
+display: block;
+font-size: 10px;
+color: #333;
+background: #b2b2b2 none repeat scroll 0 0;
+border-radius: 3px;
+margin: 0 auto 5px auto;
+}
+/*progressbar connectors*/
+#progressbar li:after {
+content: '';
+width: 94%;
+height: 2px;
+background: #b2b2b2;
+position: absolute;
+left: -47%;
+top: 9px;
+z-index: 1; /*put it behind the numbers*/
+}
+#progressbar li:first-child:after {
+/*connector not needed before the first step*/
+content: none;
+}
+/*marking active/completed steps green*/
+/*The number of the step and the connector before it = green*/
+#progressbar li.active:before, #progressbar li.active:after {
+background: #27AE60;
+color: white;
+}
+body {
+height: 100%;
+/*Image only BG fallback*/
+background: url('http://thecodeplayer.com/uploads/media/gs.png');
+/*background = gradient + image pattern combo*/
+background: linear-gradient(rgba(196, 102, 0, 0.2), rgba(155, 89, 182, 0.2)),  url('http://thecodeplayer.com/uploads/media/gs.png');
+}
+.counter > li {
+    list-style-type: none;
+}

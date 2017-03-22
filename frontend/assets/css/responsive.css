@@ -1,0 +1,231 @@
+@media (min-width: 1800px), and (max-width:768px) {
+
+
+
+
+
+}
+
+
+
+/* Large screens ----------- */
+
+@media only screen and (min-width : 1824px) {
+
+	
+
+}
+
+/* Large screens ----------- */
+
+@media only screen and (max-width : 1600px) {
+
+	
+
+}
+
+/* Large screens ----------- */
+
+@media only screen and (max-width : 1440px) {
+
+	
+
+}
+
+/* Desktops and laptops ----------- */
+
+@media only screen and (max-width : 1224px) {
+
+	
+
+}
+
+
+
+@media only screen and (max-width : 1201px) {
+
+	
+
+}
+
+/* laptops ----------- */
+
+@media only screen and (max-width : 1100px) {
+
+	
+
+}
+
+/* laptops ----------- */
+
+@media only screen and (max-width : 1024px) {
+
+	
+
+}
+
+@media only screen and (max-width : 1020px) { 
+
+	
+
+}
+
+@media only screen and (max-width : 991px) {
+
+	.col-md-3.clearfix.equalheight{width:auto}
+
+}
+
+
+
+@media only screen and (max-width : 899px) {
+
+	
+
+}
+
+
+
+@media only screen and (max-width : 768px) {
+
+	.team-member img{width: 100%;margin-bottom: 20px}
+
+	.meet-team-information{width: 100%;float: none;display: block;}
+
+	.team-member .member-details{margin-bottom: 50px}
+
+	.meet-team .meet-team-width{margin-top: -52px;width: 100px}
+
+	.meet-team-text h2{top: 0px;font-size: 20px}
+
+	.meet-team-right-image > img{width: 100px;}
+
+	.latest-news ul img{width: 100%;height: auto;}
+
+	.latest-news p{float: none;}
+
+	.clearfix.top-navigaion > li{margin-right: 15px}
+
+	.clearfix.top-navigaion > li:last-child{width: 100%;text-align: center;}
+
+	.clearfix.top-navigaion{padding: 0px}
+
+	.languagedit.text-right{text-align: center;margin-top: 20px}
+
+	.languagedit .social-icons{margin-left: 0px;margin-top: 20px}
+
+	.logo-image,.call-us.text-right span h5,.call-us.text-right{text-align: center;}
+
+	.inventory2-select-box{width: 50%}
+
+	.inventory2 img{width: 100%;float: none;}
+
+	.clearfix.right2{width: 100%;margin-top: 20px}
+
+	.clearfix.right2 p span{width: 100%}
+
+	.clearfix.right2 .clearfix.inventorybutton{width: 100%;text-align:center;float: none;}
+
+	.carousel.slide .item > img{height: auto !important;}
+
+	.carousel-caption{font-size: 16px;top: 0px}
+
+	.whychose-section .heading{padding:0px 10px;font-size: 18px}
+
+	.whychose-section ul{padding: 0px;}
+
+	.look-car-inner.clearfix,.sell-car-inner.clearfix{text-align: center;}
+
+	.look-car,.sell-but-information,.sell-car,.contact-form .width,.contact-form .width.textarea{width: 100%;}
+
+	.sell-car-inner.clearfix{margin: 0px}
+
+	.look-car-inner.clearfix img,.look-car-inner.clearfix > button,.sell-car-inner.clearfix img,.sell-car-inner.clearfix > button,.sell-but-information,.contact-form .width.textarea{float: none;}
+
+	.client-owl-information > p{font-size: 12px}
+
+	.client-owl-information span img{bottom: -15px}
+
+	.whyclient-section .client-name{left: 90px}
+
+	.contact-tabs .nav-pills > li{width:50%;float: left; }
+
+	.contact-tabs .nav.nav-pills a{font-size: 12px}
+
+	.clearfix.footeredit.text-center{width: auto;}
+
+	.clearfix.footeredit.text-center::before,.clearfix.footeredit.text-center::after{width: 155px;left: 40px}
+
+	.footer ul li{margin: 0px;width: 100%;padding: 0px}
+
+	.scrollToTop > img{bottom: -44px;right: 118px}
+
+	.copyright-bg .col-md-6.pull-right.text-right{float: left !important;}
+
+	.copyright-bg {text-align: center;padding-top: 20px}
+	.container-width-change{width: auto;}
+	.page-detail-slider th{padding: 10px;vertical-align: top;}
+	.modal-body.text-center > input{width: 100%}
+        .logo-image img {left: -36px;max-width: 146px;top: -30px;}
+.col-md-3.clearfix.equalheight{margin-bottom:74px;text-align:center;width:50%}
+.best-choices .col-md-3 img{ /*width:100%;*/ }
+
+
+.tabs-home-page{padding:10px 0px}
+.inventory2-select-box{width:100%}
+.footer-navigation .scrrol-to-top{bottom:-56px}
+
+}
+
+
+
+@media only screen and (max-width : 767px) {
+
+	.col-md-3.clearfix.equalheight{width:50%;}
+.quote{padding:2px 0}
+
+.clearfix.inventory2-select{width:100%}
+.inventory2-select-box.pull-right.price-select-box{width:60%}
+}
+
+
+
+@media only screen and (max-width : 655px) {
+
+	
+
+}
+
+
+
+/* Smartphones (portrait) ----------- */
+
+@media only screen and (max-width : 600px) {	
+
+	
+
+}
+
+
+
+@media only screen and (max-width : 565px) {
+
+	
+
+}
+
+
+
+@media only screen and (max-width : 480px) {
+
+	.col-md-3.clearfix.equalheight{width:100%}
+
+}
+
+
+
+@media only screen and (max-width : 420px) {
+
+	
+
+}
